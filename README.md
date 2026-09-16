@@ -1,23 +1,38 @@
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=empty-guy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=empty-guy&layout=compact&langs_count=16&theme=tokyonight"/>
+<img align="right" width="150"
+     src="./assets/flowers-right.svg"
+     alt="Moldura floral pontilhada">
+
+<div align="center">
+
+<sub>FLIGHT LOGS</sub>
+
+# MATH
+
+<samp>Welcome, everyone!</samp>
+
 </div>
+
 <br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="350"  alt="img" src="https://media4.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif?cid=ecf05e47b6ifjxmith4j2eovzhhd48trnenkbirn8qr9i3lw&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-    <h1 align="center">Practicing </h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   </div>
-    
-  
-  <h1 align="center">Contact-me</h1>
-    <a href = "mailto: matheuskretzkei@gmail.com">
-      <img width="30" src="https://user-images.githubusercontent.com/102408995/222502075-0cdec65c-d88d-4c12-b895-b76147391de0.svg">
-    </a>
+<p align="center">
+  Always learning something new and occasionally turning it into code.<br>
+  Experiments, useful ideas, and things worth keeping.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <sub>COORDINATES<br>Brazil</sub>
+    </td>
+    <td align="center">
+      <sub>CONTACT<br><a href="mailto:matheuskretzkei@gmail.com">✉︎ email</a></sub>
+    </td>
+  </tr>
+</table>
+<br>
+
+<div align="center">
+  <samp>If we’re going to fly high, we need to be careful not to get burned by the sun.</samp>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=IMathzh&label=profile+views&color=6e7681&style=flat-square" alt="Profile views">
 </div>
