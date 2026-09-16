@@ -1,9 +1,4 @@
-<img align="right" width="150"
-     src="./assets/flowers-right.svg"
-     alt="Moldura floral pontilhada">
-
 <div align="center">
-
 <sub>FLIGHT LOGS</sub>
 
 # MATH
