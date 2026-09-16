@@ -1,12 +1,12 @@
 <div align="center">
+
 <sub>FLIGHT LOGS</sub>
 
-# MATH
-
+  # MATH
+  
 <samp>Welcome, everyone!</samp>
-
+  
 </div>
-
 <br>
 
 <p align="center">
@@ -18,11 +18,14 @@
   <tr>
     <td align="center">
       <sub>COORDINATES<br>Brazil</sub>
-    <td align="center">
-  <sub>CONTACT</sub><br>
-  <a href="mailto:matheuskretzkei@gmail.com" title="Enviar e-mail">
-    <img src="./assets/mail.svg" width="16" height="16" alt="Enviar e-mail">
-  </a>
+<td align="center">
+  <sub>
+    CONTACT<br>
+    <a href="mailto:matheuskretzkei@gmail.com" title="Enviar e-mail">
+      <img src="./assets/mail.svg" width="16" height="16"
+           align="middle" alt="Enviar e-mail">
+    </a>
+  </sub>
 </td>
   </tr>
 </table>
