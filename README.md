@@ -18,10 +18,12 @@
   <tr>
     <td align="center">
       <sub>COORDINATES<br>Brazil</sub>
-    </td>
     <td align="center">
-      <sub>CONTACT<br><a href="mailto:matheuskretzkei@gmail.com">✉︎ email</a></sub>
-    </td>
+  <sub>CONTACT</sub><br>
+  <a href="mailto:matheuskretzkei@gmail.com" title="Enviar e-mail">
+    <img src="./assets/mail.svg" width="16" height="16" alt="Enviar e-mail">
+  </a>
+</td>
   </tr>
 </table>
 <br>
